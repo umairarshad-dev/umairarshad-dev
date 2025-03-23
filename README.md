@@ -1,8 +1,8 @@
-# Hi, I'm Muhammad Umair Arshad! 👋
+ Hi, I'm Muhammad Umair Arshad! 👋
 
-🚀 **Frontend Developer | AI Enthusiast **  
-📍 **Islamabad, Pakistan**  
-🎯 **Passionate about crafting seamless user experiences with modern web technologies.**
+🚀 Frontend Developer
+📍  Islamabad, Pakistan  
+🎯 Passionate about crafting seamless user experiences with modern web technologies.
 
 ---
 
@@ -38,17 +38,15 @@ I am a dedicated Frontend Developer specializing in React, Remix, and TypeScript
 
 ## 🌟 **Featured Projects**
 
-🛍️ **[Comerzio](#)** – A classified ads platform for buying and selling  
-🗺️ **[Route Finder](#)** – A navigation-based web app  
-🍦 **[Ice Cream Recommender](#)** – Suggests flavors based on weather
-
+🛍️ **[Comerzio](#)** – A classified platform for buying and selling products.  
+🗺️ **[Route Finder](#)** – A navigation-based web app.  
+🍦 **[Ice Cream Recommender](#)** – Suggests flavors based on weather.
 🔗 **More on:** [GitHub](https://github.com/umairarshad-dev)
 
 ---
 
 ## 📢 **Let's Connect!**
 
-🌍 **Portfolio:** https://my-project-ochre-one.vercel.app/  
 🔗 **LinkedIn:** [@umairarshad-dev](https://linkedin.com/in/umairarshad-dev)  
 🐙 **GitHub:** [@umairarshad-dev](https://github.com/umairarshad-dev)  
 📖 **Dev.to:** [@umairarshad-dev](https://dev.to/umairarshad-dev)  
@@ -57,4 +55,4 @@ I am a dedicated Frontend Developer specializing in React, Remix, and TypeScript
 
 ---
 
-💡 **"Turning ideas into interactive digital experiences!"** 🚀
+💡 **Turning ideas into interactive digital experiences!**
