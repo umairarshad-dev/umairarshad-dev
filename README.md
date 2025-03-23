@@ -1,8 +1,8 @@
- Hi, I'm Muhammad Umair Arshad! 👋
+Hi, I'm Muhammad Umair Arshad! 👋
 
-🚀 Frontend Developer
-📍**Islamabad, Pakistan**  
-🎯 Passionate about crafting seamless user experiences with modern web technologies.
+🚀**Frontend Developer**
+📍 **Islamabad, Pakistan**  
+🎯  Passionate about crafting seamless user experiences with modern web technologies.
 
 ---
 
@@ -11,7 +11,7 @@
 I am a dedicated Frontend Developer specializing in React, Remix, and TypeScript. Passionate about crafting scalable, high-performance web applications with a strong emphasis on user experience, accessibility, and responsiveness. I thrive on solving complex challenges and building innovative digital solutions.
 
 
-💡 **Currently Learning:** Next.js, AI-powered development  
+💡 **Currently Learning:** Next.js, AI-powered development.  
  
 ---
 
