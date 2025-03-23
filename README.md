@@ -48,7 +48,7 @@ I am a dedicated Frontend Developer specializing in React, Remix, and TypeScript
 
 ## 📢 **Let's Connect!**
 
-🌍 **Portfolio:** [https://my-project-ochre-one.vercel.app/]  
+🌍 **Portfolio:** https://my-project-ochre-one.vercel.app/  
 🔗 **LinkedIn:** [@umairarshad-dev](https://linkedin.com/in/umairarshad-dev)  
 🐙 **GitHub:** [@umairarshad-dev](https://github.com/umairarshad-dev)  
 📖 **Dev.to:** [@umairarshad-dev](https://dev.to/umairarshad-dev)  
