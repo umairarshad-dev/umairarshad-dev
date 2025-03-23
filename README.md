@@ -1,7 +1,7 @@
  Hi, I'm Muhammad Umair Arshad! 👋
 
 🚀 Frontend Developer
-📍  Islamabad, Pakistan  
+📍**Islamabad, Pakistan**  
 🎯 Passionate about crafting seamless user experiences with modern web technologies.
 
 ---
