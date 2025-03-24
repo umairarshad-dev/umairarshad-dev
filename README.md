@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Open-source contributions<br><br>🤝 I'm looking to collaborate on:<br>Open-source React & Next.js projects<br><br>AI-powered frontend solutions<br><br>Innovative UI/UX design experiments<br><br>🛠 I'm looking for help with:<br>AI integrations in web development<br><br>Advanced TypeScript best practices<br><br>Building a strong freelance career<br><br>🌱 I'm currently learning:<br>Next.js 14 & Server Components<br><br>API integrations & Backend basics<br><br>SEO optimization for web apps<br><br>💬 Ask me about:<br>Frontend performance optimization<br><br>React, Remix, and Tailwind CSS<br><br>Best resources to learn web development<br><br>⚡ Fun fact:<br>I started Urban Loop Tech to work on creative web projects<br><br>I love exploring AI in frontend development<br><br>Coding + Chai ☕ = Perfect combo!<br><br>
+🛠 I'm currently working on:<br>Rentive – A rental property management system<br><br>Freelance projects on Upwork<br><br>Open-source contributions<br><br>🤝 I'm looking to collaborate on:<br>Open-source React & Next.js projects<br><br>AI-powered frontend solutions<br><br>Innovative UI/UX design experiments<br><br>🛠 I'm looking for help with:<br>AI integrations in web development<br><br>Advanced TypeScript best practices<br><br>Building a strong freelance career<br><br>🌱 I'm currently learning:<br>Next.js 14 & Server Components<br><br>API integrations & Backend basics<br><br>SEO optimization for web apps<br><br>💬 Ask me about:<br>Frontend performance optimization<br><br>React, Remix, and Tailwind CSS<br><br>Best resources to learn web development<br><br>⚡ Fun fact:<br>I started Urban Loop Tech to work on creative web projects<br><br>I love exploring AI in frontend development<br><br>Coding + Chai ☕ = Perfect combo!<br><br>
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=umairarshad-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=umairarshad-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umairarshad-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=umairarshad-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=umairarshad-dev&icon=0&color=0)](https://visitcount.itsvg.in)
