@@ -1,7 +1,8 @@
 # 💫 About Me  
 
-🚀 **Frontend Developer | React & Next.js Enthusiast | AI in Web Dev**  
-
+ I'm Muhammad Umair Arshad
+🚀 **Frontend Developer | React & Next.js Enthusiast**  
+   Passionate about building clean, user-focused web experiences with modern tools and frameworks.
 ---
 
 ## 🛠 What I'm Working On  
